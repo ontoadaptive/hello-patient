@@ -18,7 +18,7 @@ Various projects show different types of Digital Health Platform (DHP) approache
 #### Basic .NET
 
 #### Redox
-- Hello Patient Redox (curl)
+- [Hello Patient Redox - Curl] (https://github.com/ontoadaptive/hello-patient-redox-curl)
 - Hello Patient Redox
 
 ### Basic HL7 Fast Healthcare Interoperability Resources (FHIR)
