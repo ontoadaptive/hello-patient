@@ -1,11 +1,11 @@
 # hello-patient
 hello-patient
 
-This in main repository to OA's canonical Digital Health bootcamp training material for both undergraduate and graduate Capstone courses.
+This in main repository to OA's HYBRID Labs - HYBRID #1 starter materials.
 
-Each sub project for a very basic use case for Heath Informatics supply a simple actor as a Patient and handling basic queries for information related to that patient.
+Based on a cohort (i.e., *Pod*) and individual interests these are customized to maximize Pod trajectory.
 
-Various projects show different types of Digital Health Platform (DHP) approaches using multiple paradigms, metaphors and application stacks.
+Below are representative what what HYBRID #1 modules build a learning system around.
 
 ### Eureka! moment
 
@@ -17,18 +17,20 @@ Various projects show different types of Digital Health Platform (DHP) approache
 
 #### Basic .NET
 
+### Health Information Technology (HIT) standards
+####  Basic HL7 Fast Healthcare Interoperability Resources (FHIR)
+#### SMART on FHIR
+
+### Vendor ecosystem
+
 #### Redox
 - [Hello Patient Redox - Curl](https://github.com/ontoadaptive/hello-patient-redox-curl)
 - Hello Patient Redox
 
-### Basic HL7 Fast Healthcare Interoperability Resources (FHIR)
-
-#### SMART on FHIR
-
-#### EPIC EHR
-#### Cerner EHR
-#### Allscripts EHR
-
 ### Related
 
 ### Future Work
+- EPIC EHR
+- Cerner EHR
+- Allscripts EHR
+- Cloud and Digital Health Platforms (DHPs)
